@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfeCF21fE08aA2498253Bf7b8089d357D8eE4611b",
+  "SCAN_LINK": "https://polygonscan.com/token/0xfeCF21fE08aA2498253Bf7b8089d357D8eE4611b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Rude Birds OG",
+  "SYMBOL": "RBOG",
+  "MAX_SUPPLY": 11111,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rude-birds-og",
+  "SHOW_BACKGROUND": true
+}
